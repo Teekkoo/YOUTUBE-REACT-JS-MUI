@@ -10,7 +10,7 @@ function App() {
 }
 
 const theme = createTheme({
-  spacing: 4,
+  spacing: 4, //espaçamento padrão definimos como 4px
   palette: {
     primary: {
       main: "#f44336",
